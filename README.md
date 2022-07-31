@@ -1,2 +1,15 @@
 "# Program-to-Check-and-print-Palindrom-Armstrong-Fibonacci-Prime-Number-in-java" 
-"# Program-to-Check-and-print-Palindrom-Armstrong-Fibonacci-Prime-Number-in-java" 
+
+![Screenshot 2022-07-31 185337](https://user-images.githubusercontent.com/84500245/182030380-1d94af21-3cbf-4275-997f-7eb7891b0955.jpg)
+![Screenshot 2022-07-31 185523](https://user-images.githubusercontent.com/84500245/182030387-51e4374c-46d4-4d1f-9aa9-368bebbccab7.jpg)
+![Screenshot 2022-07-31 185600](https://user-images.githubusercontent.com/84500245/182030388-8fe2a092-9b2b-4b95-824b-541fbcc2d6cc.jpg)
+![Screenshot 2022-07-31 190840](https://user-images.githubusercontent.com/84500245/182030391-4172bbaa-0b69-44e3-95aa-6fe8d69a7b57.jpg)
+![Screenshot 2022-07-31 190904](https://user-images.githubusercontent.com/84500245/182030392-60d99f3f-8519-486c-a49f-c7405170735d.jpg)
+![Screenshot 2022-07-31 190945](https://user-images.githubusercontent.com/84500245/182030394-f311fa5e-a5f3-4efa-ba05-32b13214e28e.jpg)
+![Screenshot 2022-07-31 191030](https://user-images.githubusercontent.com/84500245/182030396-5f6fa09c-a9ee-43df-8dc4-6a7ff531ad2a.jpg)
+![Screenshot 2022-07-31 191051](https://user-images.githubusercontent.com/84500245/182030398-d0a57433-bd82-48ab-9f38-6b88bbb5a572.jpg)
+![Screenshot 2022-07-31 191107](https://user-images.githubusercontent.com/84500245/182030400-11f9c41b-d081-45cd-adf2-626548d2ccb9.jpg)
+![Screenshot 2022-07-31 191127](https://user-images.githubusercontent.com/84500245/182030404-7d50b806-5031-4996-99ed-3300ab09eec8.jpg)
+![Screenshot 2022-07-31 191144](https://user-images.githubusercontent.com/84500245/182030406-71d0f79b-717d-4df1-a4db-65ff5ed6c345.jpg)
+![Screenshot 2022-07-31 191202](https://user-images.githubusercontent.com/84500245/182030408-e7968af7-e75f-4a8e-ace8-5341dc07d02a.jpg)
+![Screenshot 2022-07-31 185220](https://user-images.githubusercontent.com/84500245/182030410-f1d99090-838e-4cc5-9321-6d43157d866b.jpg)
